@@ -28,4 +28,4 @@ async def sair(ctx):
         await ctx.send('O bot não está conectado em um canal de voz')
     await channeldc.disconnect()
 
-client.run('ODM4OTEzNzUzMTkzOTA2MTg2.YJCBUQ.8hPwVpjn5nggZq8gcwSIgG4Kn3E')
+client.run('TOKEN')
