@@ -33,4 +33,4 @@ async def dado(ctx):
     numr = random.randint(1,6)
     await ctx.send(numr)
 
-bot.run('ODM4OTEzNzUzMTkzOTA2MTg2.YJCBUQ.8hPwVpjn5nggZq8gcwSIgG4Kn3E')
+bot.run('TOKEN')
